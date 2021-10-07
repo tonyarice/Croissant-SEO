@@ -39,6 +39,10 @@ footer a:visited {
     color: darkred;
 }
 
+/* .active {
+    color: mediumseagreen;
+} */
+
 img {
     display: block;
     max-width: 100%;

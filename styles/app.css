@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(to bottom, rgb(232, 252, 252) 11.2%, rgb(252, 215, 134) 56.2%, rgb(247, 124, 124) 100.2%);
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+}
+
+h1 {
+    text-align: center;  
+}
+
+p {
+    text-align: center;
+    margin: 20px 30px;
+}
+
+.navlinks {
+    text-align: center;
+}
+
+.navlinks a {
+    color: orange;
+    margin: 0 15px;
+}
+
+.navlinks a:hover {
+    color: orangered;
+}
+
+.navlinks a:hover {
+    color: gold;
+}
+
+.navlinks a:visited {
+    color: darkred;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    border: 1px orange solid;
+    border-radius: 10px; 
+}

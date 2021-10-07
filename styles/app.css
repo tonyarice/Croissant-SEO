@@ -18,24 +18,24 @@ p {
     margin: 20px 30px;
 }
 
-.navlinks {
+footer {
     text-align: center;
 }
 
-.navlinks a {
+footer a {
     color: orange;
     margin: 0 15px;
 }
 
-.navlinks a:hover {
+footer a:hover {
     color: orangered;
 }
 
-.navlinks a:hover {
+footer a:hover {
     color: gold;
 }
 
-.navlinks a:visited {
+footer a:visited {
     color: darkred;
 }
 
